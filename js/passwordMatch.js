@@ -1,0 +1,1 @@
+//ef tími gefst þá mun koma kóði hér sem athugar hvort að passwordin séu eins þegar notandi býr til account án þess að ýta á submit takkann
